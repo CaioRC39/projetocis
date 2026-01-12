@@ -7,4 +7,4 @@
 
 - Desenvolvimento focado em nível físico (layout), aplicando conceitos de projeto VLSI, temporização e eficiência de circuitos digitais, com validação funcional da ULA para operações aritméticas e lógicas.
 
-- Além da ULA, esse repositório contém outros projetos realizados durante a disciplina
+## Além da ULA, esse repositório contém outros projetos realizados durante a disciplina
